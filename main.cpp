@@ -16,7 +16,7 @@ int main() {
     std::cout << "\nType the number of the algorithm you want to run.\n";
     std::cout << "1) Forward Selection\n";
     std::cout << "2) Backward Elimination\n";
-    std::cout << "3) Arun\"s Special Algorithm.\n\n";
+    std::cout << "3) Arun\'s Special Algorithm.\n\n";
 
     int choice;
     std::cin >> choice;
